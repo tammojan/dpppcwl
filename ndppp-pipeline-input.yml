@@ -1,0 +1,3 @@
+measurement_set:
+  class: Directory
+  path: tim.MS
