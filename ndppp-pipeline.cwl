@@ -7,7 +7,7 @@ inputs:
   measurement_set: Directory
 
 outputs:
-  classout:
+  averaged_measurement_set:
     type: Directory
     outputSource: average/msout
 
